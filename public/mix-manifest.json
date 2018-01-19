@@ -1,0 +1,21 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/private/css/bootstrap.css": "/private/css/bootstrap.css",
+    "/private/css/font-awesome.css": "/private/css/font-awesome.css",
+    "/private/css/ionicons.css": "/private/css/ionicons.css",
+    "/private/css/admin.css": "/private/css/admin.css",
+    "/private/css/skins.css": "/private/css/skins.css",
+    "/private/css/pace.css": "/private/css/pace.css",
+    "/private/css/notify.css": "/private/css/notify.css",
+    "/private/css/base.css": "/private/css/base.css",
+    "/private/css/bold.css": "/private/css/bold.css",
+    "/private/crud/css/crud.css": "/private/crud/css/crud.css",
+    "/private/crud/css/form.css": "/private/crud/css/form.css",
+    "/private/js/notify.js": "/private/js/notify.js",
+    "/private/js/bootstrap.js": "/private/js/bootstrap.js",
+    "/private/js/pace.js": "/private/js/pace.js",
+    "/private/js/slimscroll.js": "/private/js/slimscroll.js",
+    "/private/js/fastclick.js": "/private/js/fastclick.js",
+    "/private/js/admin.js": "/private/js/admin.js"
+}
